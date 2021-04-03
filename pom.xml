@@ -7,6 +7,7 @@
   <groupId>fr.limoges</groupId>
   <artifactId>MavenProject</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
 
   <name>MavenProject</name>
   <!-- FIXME change it to the project's website -->
@@ -25,6 +26,14 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring -->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring</artifactId>
+      <version>5.3.4</version>
+      <type>pom</type>
+    </dependency>
+
   </dependencies>
 
   <build>
