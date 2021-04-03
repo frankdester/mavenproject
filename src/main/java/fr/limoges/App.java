@@ -1,5 +1,7 @@
 package fr.limoges;
 
+import org.graalvm.compiler.lir.CompositeValue;
+
 /**
  * Hello world!
  *

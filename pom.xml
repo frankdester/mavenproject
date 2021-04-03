@@ -26,13 +26,33 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/org.springframework/spring -->
+<!--    &lt;!&ndash; https://mvnrepository.com/artifact/org.springframework/spring &ndash;&gt;-->
+<!--    <dependency>-->
+<!--      <groupId>org.springframework</groupId>-->
+<!--      <artifactId>spring</artifactId>-->
+<!--      <version>5.3.4</version>-->
+<!--      <type>pom</type>-->
+<!--    </dependency>-->
+<!--    &lt;!&ndash; https://mvnrepository.com/artifact/org.springframework/spring &ndash;&gt;-->
+<!--    <dependency>-->
+<!--      <groupId>org.springframework</groupId>-->
+<!--      <artifactId>spring</artifactId>-->
+<!--      <version>5.3.1</version>-->
+<!--      <type>pom</type>-->
+<!--    </dependency>-->
+<!--    &lt;!&ndash; https://mvnrepository.com/artifact/org.springframework/spring-core &ndash;&gt;-->
+<!--    <dependency>-->
+<!--      <groupId>org.springframework</groupId>-->
+<!--      <artifactId>spring-core</artifactId>-->
+<!--      <version>5.3.4</version>-->
+<!--    </dependency>-->
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
     <dependency>
       <groupId>org.springframework</groupId>
-      <artifactId>spring</artifactId>
-      <version>5.3.4</version>
-      <type>pom</type>
+      <artifactId>spring-context</artifactId>
+      <version>5.3.5</version>
     </dependency>
+
 
   </dependencies>
 
