@@ -53,6 +53,14 @@
       <version>5.3.5</version>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.graalvm.compiler/compiler -->
+    <dependency>
+      <groupId>org.graalvm.compiler</groupId>
+      <artifactId>compiler</artifactId>
+      <version>21.0.0.2</version>
+    </dependency>
+
+
 
   </dependencies>
 
